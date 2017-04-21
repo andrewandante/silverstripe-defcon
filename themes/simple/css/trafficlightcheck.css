@@ -1,0 +1,12 @@
+.traffic-light-critical {
+	background-color: red;
+	color: white;
+}
+.traffic-light-warning {
+	background-color: orange;
+	color: white;
+}
+.traffic-light-good {
+	background-color: green;
+	color: white;
+}

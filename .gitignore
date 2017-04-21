@@ -17,6 +17,7 @@ _ss_environment.php
 /reports/
 /siteconfig/
 /silverstripe-dynamodb/
+/gridfieldextensions/
 
 # ignore assets
 /assets/

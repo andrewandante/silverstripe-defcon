@@ -8,9 +8,22 @@
 		"silverstripe/reports": "3.5.3",
 		"silverstripe/siteconfig": "3.5.3",
 		"silverstripe-themes/simple": "3.1.*",
-		"silverstripe/crontask": "^1.1",
-		"silverstripe/dynamodb": "^2.0"
+		"silverstripe/crontask": "^1.1.0",
+		"silverstripe/dynamodb": "^1.0.0",
+		"silverstripe-platform/rainforest": "^4.0.0",
+		"silverstripe-australia/gridfieldextensions": "^1.4"
+
 	},
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "git@github.com:silverstripeltd/rainforest.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:silverstripeltd/frisp.git"
+		}
+	],
 	"require-dev": {
 		"phpunit/PHPUnit": "~3.7@stable"
 	},
